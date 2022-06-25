@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-    
+
     implementation project(path: ':lancet-ec')
     annotationProcessor project(path: ':lancet-compiler')
 }
